@@ -1,0 +1,14 @@
+/Users/ferri/Documents/TPprogramacion1/bin/Debug/net10.0/TPprogramacion1
+/Users/ferri/Documents/TPprogramacion1/bin/Debug/net10.0/TPprogramacion1.deps.json
+/Users/ferri/Documents/TPprogramacion1/bin/Debug/net10.0/TPprogramacion1.runtimeconfig.json
+/Users/ferri/Documents/TPprogramacion1/bin/Debug/net10.0/TPprogramacion1.dll
+/Users/ferri/Documents/TPprogramacion1/bin/Debug/net10.0/TPprogramacion1.pdb
+/Users/ferri/Documents/TPprogramacion1/obj/Debug/net10.0/TPprogramacion1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ferri/Documents/TPprogramacion1/obj/Debug/net10.0/TPprogramacion1.AssemblyInfoInputs.cache
+/Users/ferri/Documents/TPprogramacion1/obj/Debug/net10.0/TPprogramacion1.AssemblyInfo.cs
+/Users/ferri/Documents/TPprogramacion1/obj/Debug/net10.0/TPprogramacion1.csproj.CoreCompileInputs.cache
+/Users/ferri/Documents/TPprogramacion1/obj/Debug/net10.0/TPprogramacion1.dll
+/Users/ferri/Documents/TPprogramacion1/obj/Debug/net10.0/refint/TPprogramacion1.dll
+/Users/ferri/Documents/TPprogramacion1/obj/Debug/net10.0/TPprogramacion1.pdb
+/Users/ferri/Documents/TPprogramacion1/obj/Debug/net10.0/TPprogramacion1.genruntimeconfig.cache
+/Users/ferri/Documents/TPprogramacion1/obj/Debug/net10.0/ref/TPprogramacion1.dll
